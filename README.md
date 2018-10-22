@@ -1,7 +1,13 @@
 # Tasks-Materials
 learning materials and tasks publish
 
-## 基本学习
+## Time Table
+
+* Step 0: Complete Basic Learning before 2018.10.28
+* Step 1: Complete Step 1‘s content before end of the semester (2019.1.20).
+* ......
+ 
+## Basic Learning
 > 根据个人情况进行学习, 已经会了的部分跳过
 
 ### 1. Linux 安装与初步实践
@@ -36,4 +42,34 @@ learning materials and tasks publish
 
 
 
+
+## Learning Step 1
+
+<center>**The three parts should be synchronized**</center>
+
+### Programming in Linux Environment
+
+* [Write pure c program](https://blog.csdn.net/qq_36328643/article/details/52794876)
+* [Write C/C++ mixed program via VS Code (debug & build)](https://blog.csdn.net/qq_37968132/article/details/79685646)
+
+
+### Data Structure and Algorithm Preliminary
+
+#### Books
+ * 数据结构(严蔚敏)[图书馆借阅或购买] - 新版外观 :[京东](https://item.jd.com/12407475.html)
+ * 数据结构(严蔚敏) - 第一版 : [第一版扫描版PDF](./books/DataStruct.pdf)
+ * 算法精解精析C描述 : [算法精解C描述扫描版PDF](./books/算法精解C描述.pdf)
+
+ 
+#### Links
+* [严蔚敏数据结构课本代码-Github](https://github.com/kangjianwei/Data-Structure)
+
+### Programming Practice
+
+Practice what you learnt in online judge website: LeetCode.
+
+* [LeetCode Chinese Version](https://leetcode-cn.com)
+* [LeetCode English Version](https://leetcode.com)
+
+Language Select : C.
 
