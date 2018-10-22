@@ -45,7 +45,7 @@ learning materials and tasks publish
 
 ## Learning Step 1
 
-<center>**The three parts should be synchronized**</center>
+**The three parts should be synchronized**
 
 ### Programming in Linux Environment
 
